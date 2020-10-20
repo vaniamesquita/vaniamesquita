@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Vania Mesquita and i'm passionate about tech ❤️💻
+My name is Vania Mesquita and i'm passionate about solving problems, learning and tech ❤️💻
 
 📍 Rio de Janeiro, Brazil
 
 📚 Systems analysis and development student
+<br><br>
  
 ▪️ I’m currently working on <img align="center" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
