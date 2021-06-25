@@ -1,4 +1,4 @@
-#### <p align="right"> <a href="https://vaniamesquita.me/readme.md/" target="_blank">Portuguese</a></p>
+#### <p align="right"> <a href="README.md/" target="_blank">Portuguese</a></p>
 ## Hi there 👋
 
 My name is Vania Mesquita and i'm passionate about solving problems, learning and tech ❤️💻
