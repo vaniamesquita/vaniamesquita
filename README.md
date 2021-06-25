@@ -1,4 +1,4 @@
-#### <p align="right"> <a href="https://vaniamesquita.me/readme-en.md/" target="_blank">English</a></p>
+#### <p align="right"> <a href="README-EN.md" target="_blank">English</a></p>
 ## Olá 👋
 
 Meu nome é Vânia Mesquita, e eu sou apaixonada por aprender, tecnologia e resolver problemas. ❤️💻
