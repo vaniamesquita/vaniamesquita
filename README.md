@@ -1,32 +1,39 @@
-#### <p align="right"> <a href="README-EN.md" target="_blank">English</a></p>
-## Olá 👋
 
-Meu nome é Vânia Mesquita, e eu sou apaixonada por aprender, tecnologia e resolver problemas. ❤️💻
+## Hello World 👋
 
-📍 Rio de Janeiro, Brazil
+Eu sou a Vânia Mesquita, moro no Rio de Janeiro (Brasil) e sou apaixonada por **aprender**, **tecnologia** e **resolver problemas**. ❤️💻
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas<br><br>
+Sou graduanda em Análise e Desenvolvimento de Sistemas.  
+
+Atualmente estudo tecnologias de desenvolvimento front-end (HTML, CSS e Javascritpt).
+
+
+  ---
  
-▪️ Atualmente trabalho com <img align="center" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+ ### Linguagens, Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> &nbsp; &nbsp;
+</p>
+
+
+
+ ---
  
-▪️ Atualmente estou estudando <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaniamesquita&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaniamesquita&layout=compact&hide_border=true" />
+</a>
 
 
+---
+### Entre em contato 👇🏼
 
-<br><br>
-
-Entre em contato 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaniamesquita/)](https://www.linkedin.com/in/vaniamesquita/)
 [![Gmail Badge](https://img.shields.io/badge/-vaniasalesm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaniasalesm@gmail.com)](mailto:vaniasalesm@gmail.com)
- <a href="#"><img align="right" src="https://badges.pufler.dev/visits/vaniamesquita/vaniamesquita"></a>
-
-
-
-
+<a href="https://www.linkedin.com/in/vaniamesquita/" target="_blank" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 
