@@ -1,9 +1,7 @@
 
 ## Hello World 👋
 
-Eu sou a Vânia Mesquita, moro no Rio de Janeiro (Brasil) e sou apaixonada por **aprender**, **tecnologia** e **resolver problemas**. ❤️💻
-
-Sou graduanda em Análise e Desenvolvimento de Sistemas.  
+Sou graduanda em Análise e Desenvolvimento de Sistemas, e apaixonada por **aprender**, **tecnologia** e **resolver problemas**. ❤️💻
 
 Atualmente estudo tecnologias de desenvolvimento front-end (HTML, CSS e Javascritpt).
 
