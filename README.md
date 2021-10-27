@@ -1,7 +1,7 @@
 
 ## Hello World,  👋
 
-Sou apaixonada por **aprender**, **tecnologia** e **resolver problemas**. ❤️ 💻
+
 
 
   ---
